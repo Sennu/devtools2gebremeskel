@@ -1,0 +1,27 @@
+/*
+Theme Name: Senait Child Theme Assignment
+Theme URI: http://wordpress:8888
+Description: This is a Wordpress Assignment 
+Author: Senait G
+Author URI: http://senait
+Template: twentythirteen
+Version: 0.1
+*/
+@import url("../twentythirteen/style.css");
+
+
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+/*font-family: 'Dosis', sans-serif;
+*/
+
+
+
+.site {
+	background: #eee;
+}
+
+h1 {
+	font-size: 54px;
+	margin: 33px 0;
+}
